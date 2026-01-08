@@ -1,5 +1,5 @@
-site_name: Test Docs
-site_url: https://example.com
+site_name: docs-test
+site_url: https://mohammad-h93.github.io/docs-test/
 
 nav:
   - Home: index.md
