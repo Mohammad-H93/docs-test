@@ -1,0 +1,14 @@
+site_name: Test Docs
+site_url: https://example.com
+
+nav:
+  - Home: index.md
+  - Page Two: page-2.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
